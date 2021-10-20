@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nottimisreal)](https://github.com/nottimisreal/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottimisreal)](https://github.com/nottimisreal/github-readme-stats)
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=nottimisreal)](https://github.com/nottimisreal/github-readme-stats)
