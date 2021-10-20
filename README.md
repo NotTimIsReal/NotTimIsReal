@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to discord.js
 - 📫 How to reach me: DM me on Discord, Not Someone Else#1691
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can code html but barely CSS or JS for a website
+- ⚡ Fun fact: Something
 -->
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nottimisreal&show_icons=true&theme=dark&langs_count=10)](https://github.com/nottimisreal/nottimisreal)
