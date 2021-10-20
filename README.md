@@ -13,5 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can code html but barely CSS or JS for a website
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nottimisreal&show_icons=true)](https://github.com/nottimisreal/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottimisreal&show_icons=true)](https://github.com/nottimisreal/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nottimisreal&show_icons=true&theme=dark&langs_count=10)](https://github.com/nottimisreal/nottimisreal)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottimisreal&show_icons=true&theme=dark&langs_count=10&layout=compact)](https://github.com/nottimisreal/nottimisreal)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nottimisreal&show_icons=true&theme=dark&langs_count=10&layout=compact)](https://github.com/nottimisreal/nottimisreal)
+
