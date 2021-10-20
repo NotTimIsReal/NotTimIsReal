@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Discord.JS bot, Repo:BBARevamp
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on anything related to Discord.js
 - 🤔 I’m looking for help with making a Dynamic Website
 - 💬 Ask me about anything related to discord.js
