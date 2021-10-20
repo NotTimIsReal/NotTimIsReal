@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can code html but barely CSS or JS for a website
 -->
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nottimisreal)](https://github.com/nottimisreal/github-readme-stats)
