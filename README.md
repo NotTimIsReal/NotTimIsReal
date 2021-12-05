@@ -1,17 +1,6 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a Discord.JS bot, Repo:BBARevamp
-- 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on anything related to Discord.js
-- 🤔 I’m looking for help with making a Dynamic Website
-- 💬 Ask me about anything related to discord.js
-- 📫 How to reach me: DM me on Discord, Not Someone Else#1691
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Something
--->
+- I am a ts/js developer who loves apis but can somewhat still make frontend code??
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nottimisreal&show_icons=true&theme=dark&langs_count=10)](https://github.com/nottimisreal/nottimisreal)
 
