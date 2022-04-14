@@ -1,9 +1,10 @@
+## Simplified
 - Just Another Hobby
 - Still in high-school
 Learning:
 - Unity Game Dev
 - C#
-Great At:
+## Great At:
 - Typescript
 - Javascript
 - Kotlin(learnt in a day probably need to look at the docs again)
