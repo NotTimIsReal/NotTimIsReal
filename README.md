@@ -7,9 +7,9 @@ Learning:
 ## Great At:
 - Typescript
 - Javascript
-- Kotlin(learnt in a day probably need to look at the docs again)
+- Kotlin (why do we use kotlin for anything except android development?)
 - Go
-- C++ (Don't make me import packages)
+- C++ 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nottimisreal&show_icons=true&theme=dark&langs_count=10)](https://github.com/nottimisreal/nottimisreal)
 
