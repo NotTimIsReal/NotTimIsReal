@@ -7,7 +7,6 @@ Learning:
 ## Great At:
 - Typescript
 - Javascript
-- Kotlin (why do we use kotlin for anything except android development?)
 - Go
 - C++ 
 
